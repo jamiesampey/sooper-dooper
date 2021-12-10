@@ -2,3 +2,4 @@ This is a second file
 an edit to the file and a new-branch addition and from main and complicated branch
 new feature edit! look at this new text!!!
 this is the forth line from main branch
+new line from rebase branch
